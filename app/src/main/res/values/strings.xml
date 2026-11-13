@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">郭翔宇2024110511</string>
+    <string name="title_book_detail">书籍详情</string>
+    <string name="label_list_header">书籍列表（按价格从低到高排序）</string>
+    <string name="book_meta_format">%1$s · %2$s</string>
+    <string name="book_price_format">￥%1$.2f</string>
+
+    <string name="detail_header">书籍完整信息</string>
+    <string name="detail_title_format">书名：%1$s</string>
+    <string name="detail_author_format">作者：%1$s</string>
+    <string name="detail_publisher_format">出版社：%1$s</string>
+    <string name="detail_price_format">价格：￥%1$.2f</string>
+    <string name="btn_back">返回列表</string>
+</resources>
